@@ -16,10 +16,7 @@
         "laravel": {
             "providers": [
                 "RystLee\\LaravelScoutElastic\\ServiceProvider"
-            ],
-            "aliases": {
-                "Debugbar": "RystLee\\LaravelScoutElastic\\Facade"
-            }
+            ]
         }
     },
     "autoload": {
