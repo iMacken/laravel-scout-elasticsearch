@@ -8,9 +8,9 @@
         }
     ],
     "require": {
-        "php": ">=5.6.4",
-        "laravel/scout": "^3.0",
-        "elasticsearch/elasticsearch": "^5.0"
+        "php": ">=7.1",
+        "laravel/scout": "^4.0",
+        "elasticsearch/elasticsearch": "^6.0"
     },
     "extra": {
         "laravel": {
